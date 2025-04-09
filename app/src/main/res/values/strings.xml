@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bookshelf App</string>
+    <string name="no_image_available">No Image Available</string>
+    <string name="book_cover_description">Book cover: %1$s</string>
+    <string name="authors_separator">, </string>
+    <string name="unknown_author">Unknown Author</string>
+    <string name="http_protocol">http:</string>
+    <string name="https_protocol">https:</string>
+</resources>
